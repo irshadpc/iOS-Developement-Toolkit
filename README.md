@@ -1,6 +1,6 @@
 #iOS-Developement-Toolkit
 
-This is a curated list of iOS Development Tools, Websites, Services and Frameworks I am currently using.
+This is a curated list of iOS Development Tools, Websites, Services and Frameworks.
 
 #Services
 * A modular plugin system for your iOS Apps called [Fabric](https://get.fabric.io).
