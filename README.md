@@ -120,4 +120,4 @@ for iOS and OS X.
 * Great App Development Podcast [The RayWenderlich.com Podcast](https://www.raywenderlich.com/rwpodcast)
 
 #Credits 
-Wonderful medium post by [Sebastian Boldt](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085#.1ow7g96nz)
+Wonderful medium post by [Sebastian Boldt](https://www.linkedin.com/in/sebastian-boldt-9b465261/)
