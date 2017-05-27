@@ -56,6 +56,14 @@ This is a curated list of iOS Development Tools, Websites, Services and Framewor
 
 * [CCMenu](https://itunes.apple.com/de/app/ccmenu/id603117688?mt=12) displays the build status of projects on a continuous integration server as an item in the Mac’s menu bar.
 
+* [JSON Accelerator](https://itunes.apple.com/in/app/json-accelerator/id1198949505?mt=12) - The better way to deal with JSON data in Objective C. JSON Accelerator will create the models automatically while following S.O.L.I.D principles.
+
+* [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12) - Prepare, share and preview App artwork and icons. Drag and drop artwork for quick @3x and @2x to @1x conversion and preview Icon artwork in context.
+
+* [Sympli](https://sympli.io) - Design handoff and implementation for teams that work with Photoshop, Sketch, Android Studio, and Xcode. 
+
+* [Diawi](https://www.diawi.com) is a tool for developers to deploy Development and In-house applications directly to the devices.
+
 #Frameworks and Libraries
 
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios) is a curated list of useful Libraries sorted by category.
