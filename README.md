@@ -64,6 +64,8 @@ This is a curated list of iOS Development Tools, Websites, Services and Framewor
 
 * [Diawi](https://www.diawi.com) is a tool for developers to deploy Development and In-house applications directly to the devices.
 
+* Interactive layout testing or to check that all screens [RevealApp](https://revealapp.com).
+
 #Frameworks and Libraries
 
 * [Awesome-iOS](https://github.com/vsouza/awesome-ios) is a curated list of useful Libraries sorted by category.
@@ -120,6 +122,9 @@ for iOS and OS X.
 * Great blog around iOS and co. [khanlou](http://khanlou.com)
 
 #Podcasts
+If you really have time to listen podcast this is my favorite Mac app [PodcastMenu](https://github.com/insidegui/PodcastMenu)
+
+* [AppStories](https://itunes.apple.com/us/podcast/appstories/id1227872143?mt=2) By Federico Viticci, John Voorhees, Check this out.
 
 * [Core Intuition](http://www.coreint.org) is a podcast about indie software development for the Mac, iOS and other Apple technologies.
 
@@ -128,4 +133,4 @@ for iOS and OS X.
 * Great App Development Podcast [The RayWenderlich.com Podcast](https://www.raywenderlich.com/rwpodcast)
 
 #Credits 
-Wonderful medium post by [Sebastian Boldt](https://twitter.com/sebastianboldt)
+Wonderful medium post by [Sebastian Boldt](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085#.1ow7g96nz)
